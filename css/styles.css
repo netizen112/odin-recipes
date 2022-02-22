@@ -1,0 +1,23 @@
+body {
+    background-color:blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    color:darkorchid;
+    
+}
+
+h2 {
+    color:coral;
+}
+
+ul li {
+    background-color: aliceblue;
+}
+
+ol li {
+    background-color:darkturquoise;
+}
